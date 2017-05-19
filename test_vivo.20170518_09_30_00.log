@@ -1,0 +1,138 @@
+testing load times for http://vivo.ufl.edu/display/n11937
+test 1 loaded in 19 seconds
+test 2 loaded in 16 seconds
+test 3 loaded in 18 seconds
+test 4 loaded in 17 seconds
+test 5 loaded in 26 seconds
+test 6 loaded in 24 seconds
+test 7 loaded in 21 seconds
+test 8 loaded in 22 seconds
+test 9 loaded in 13 seconds
+test 10 loaded in 16 seconds
+test 11 loaded in 15 seconds
+test 12 loaded in 16 seconds
+test 13 loaded in 16 seconds
+test 14 loaded in 19 seconds
+test 15 loaded in 27 seconds
+test 16 loaded in 23 seconds
+test 17 loaded in 17 seconds
+test 18 loaded in 16 seconds
+test 19 loaded in 18 seconds
+test 20 loaded in 14 seconds
+There were 20 test page loads of http://vivo.ufl.edu/display/n11937
+All units in seconds: min=13, max=27, avg=18.65, sum=373, standard deviation=3.85065
+testing load times for http://test.vivo.ufl.edu:8080/vivo/display/n11937
+test 1 loaded in 13 seconds
+test 2 loaded in 11 seconds
+test 3 loaded in 11 seconds
+test 4 loaded in 11 seconds
+test 5 loaded in 11 seconds
+test 6 loaded in 11 seconds
+test 7 loaded in 12 seconds
+test 8 loaded in 11 seconds
+test 9 loaded in 11 seconds
+test 10 loaded in 9.8 seconds
+test 11 loaded in 12 seconds
+test 12 loaded in 11 seconds
+test 13 loaded in 12 seconds
+test 14 loaded in 11 seconds
+test 15 loaded in 12 seconds
+test 16 loaded in 11 seconds
+test 17 loaded in 12 seconds
+test 18 loaded in 11 seconds
+test 19 loaded in 12 seconds
+test 20 loaded in 12 seconds
+There were 20 test page loads of http://test.vivo.ufl.edu:8080/vivo/display/n11937
+All units in seconds: min=9.8, max=13, avg=11.39, sum=227.8, standard deviation=0.685493
+testing load times for http://vivo.ufl.edu/display/n64866
+test 1 loaded in 9.2 seconds
+test 2 loaded in 9.0 seconds
+test 3 loaded in 8.2 seconds
+test 4 loaded in 8.6 seconds
+test 5 loaded in 8.1 seconds
+test 6 loaded in 10 seconds
+test 7 loaded in 6.1 seconds
+test 8 loaded in 17 seconds
+test 9 loaded in 12 seconds
+test 10 loaded in 8.9 seconds
+test 11 loaded in 9.2 seconds
+test 12 loaded in 8.5 seconds
+test 13 loaded in 8.8 seconds
+test 14 loaded in 9.4 seconds
+test 15 loaded in 7.9 seconds
+test 16 loaded in 6.2 seconds
+test 17 loaded in 6.6 seconds
+test 18 loaded in 6.3 seconds
+test 19 loaded in 5.0 seconds
+test 20 loaded in 6.1 seconds
+There were 20 test page loads of http://vivo.ufl.edu/display/n64866
+All units in seconds: min=5.0, max=17, avg=8.555, sum=171.1, standard deviation=2.52101
+testing load times for http://test.vivo.ufl.edu:8080/vivo/display/n64866
+test 1 loaded in 8.1 seconds
+test 2 loaded in 3.3 seconds
+test 3 loaded in 3.4 seconds
+test 4 loaded in 3.3 seconds
+test 5 loaded in 3.4 seconds
+test 6 loaded in 3.2 seconds
+test 7 loaded in 3.4 seconds
+test 8 loaded in 3.2 seconds
+test 9 loaded in 3.2 seconds
+test 10 loaded in 3.1 seconds
+test 11 loaded in 3.3 seconds
+test 12 loaded in 3.4 seconds
+test 13 loaded in 3.2 seconds
+test 14 loaded in 3.2 seconds
+test 15 loaded in 3.3 seconds
+test 16 loaded in 3.2 seconds
+test 17 loaded in 3.4 seconds
+test 18 loaded in 3.3 seconds
+test 19 loaded in 3.2 seconds
+test 20 loaded in 3.8 seconds
+There were 20 test page loads of http://test.vivo.ufl.edu:8080/vivo/display/n64866
+All units in seconds: min=3.1, max=8.1, avg=3.545, sum=70.9, standard deviation=1.05474
+testing load times for http://vivo.ufl.edu/display/n90431
+test 1 loaded in 12 seconds
+test 2 loaded in 10 seconds
+test 3 loaded in 12 seconds
+test 4 loaded in 9.5 seconds
+test 5 loaded in 9.7 seconds
+test 6 loaded in 8.7 seconds
+test 7 loaded in 12 seconds
+test 8 loaded in 8.8 seconds
+test 9 loaded in 7.1 seconds
+test 10 loaded in 9.8 seconds
+test 11 loaded in 9.0 seconds
+test 12 loaded in 9.1 seconds
+test 13 loaded in 14 seconds
+test 14 loaded in 14 seconds
+test 15 loaded in 15 seconds
+test 16 loaded in 12 seconds
+test 17 loaded in 13 seconds
+test 18 loaded in 12 seconds
+test 19 loaded in 11 seconds
+test 20 loaded in 12 seconds
+There were 20 test page loads of http://vivo.ufl.edu/display/n90431
+All units in seconds: min=7.1, max=15, avg=11.035, sum=220.7, standard deviation=2.0409
+testing load times for http://test.vivo.ufl.edu:8080/vivo/display/n90431
+test 1 loaded in 8.1 seconds
+test 2 loaded in 7.5 seconds
+test 3 loaded in 7.0 seconds
+test 4 loaded in 7.1 seconds
+test 5 loaded in 6.9 seconds
+test 6 loaded in 7.0 seconds
+test 7 loaded in 3.5 seconds
+test 8 loaded in 6.9 seconds
+test 9 loaded in 7.0 seconds
+test 10 loaded in 7.4 seconds
+test 11 loaded in 6.9 seconds
+test 12 loaded in 3.5 seconds
+test 13 loaded in 3.5 seconds
+test 14 loaded in 3.5 seconds
+test 15 loaded in 6.9 seconds
+test 16 loaded in 6.9 seconds
+test 17 loaded in 3.4 seconds
+test 18 loaded in 7.0 seconds
+test 19 loaded in 3.4 seconds
+test 20 loaded in 7.1 seconds
+There were 20 test page loads of http://test.vivo.ufl.edu:8080/vivo/display/n90431
+All units in seconds: min=3.4, max=8.1, avg=6.025, sum=120.5, standard deviation=1.69702
